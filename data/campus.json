@@ -1,0 +1,12 @@
+{
+    "campers": {
+        "001": {
+            "idx": "001",
+            "nombre": "Carla"
+        },
+        "002": {
+            "idx": "002",
+            "nombre": "Luis enrique"
+        }
+    }
+}
